@@ -1,0 +1,14 @@
+backup-gabriel
+final.txt
+gabriel1.txt
+gabriel25
+gabriel2.txt
+gabriel3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-gabriel.txt
+README.md
+ultimocomando.txt

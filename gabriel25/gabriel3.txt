@@ -1,0 +1,6 @@
+../labso.2019.1.av1/pasta1/1.txt
+../labso.2019.1.av1/gabriel1.txt
+../labso.2019.1.av1/pasta2/2.txt
+../labso.2019.1.av1/pasta3/pasta31/3.txt
+../labso.2019.1.av1/gabriel3.txt
+../labso.2019.1.av1/gabriel2.txt
